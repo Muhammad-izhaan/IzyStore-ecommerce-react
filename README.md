@@ -1,6 +1,7 @@
 # IzyStore E-commerce Website
 
 A modern e-commerce website built with React, TypeScript, and TailwindCSS.
+live demo: https://izy-store-ecommerce-react.vercel.app/
 
 ![IzyStore Screenshot](image.png)
 
